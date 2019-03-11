@@ -25,7 +25,8 @@ background-color:rgb(255, 255, 255); }
 
 .pretty_header
 {font-size: 24px;
-color: #53af93}
+color: #53af93;
+background-color:rgb(255, 255, 255);}
 
 .box_green
 {font-size: 24px;
@@ -45,13 +46,12 @@ hr
 
   .box_no_right_padding
   {padding-right: 0px;
- 
- background-color:rgb(255, 255, 255); }
+    padding-left: 15px; }
 
  .box_no_left_padding
  {padding-left: 0px;
-
-background-color:rgb(255, 255, 255); }
+  padding-right: 15px;
+ }
 
 .box_no_padding
 {padding: 0px 0px 0px 0px;
